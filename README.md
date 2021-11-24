@@ -7,7 +7,7 @@ The aggregated data are available at: INSERT LINK
 ### CODE
 - *aggregation* provides the code for aggregation of individual level data to municipality and zip-code level.
 - *analysis* provides the code for the data presentation and validation
-- *final checks* provides the code for the final data checks performed before submission of the dataset.
+- *final_checks* provides the code for the final data checks performed before submission of the dataset.
 
 ### ABSTRACT
 We present the La Mobilière insurance customers dataset: a 12-year-long longitudinal collection of data on policies ofcustomers of the Swiss insurance company La Mobilière. 
