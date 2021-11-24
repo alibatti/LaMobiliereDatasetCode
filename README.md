@@ -1,10 +1,10 @@
 # LaMobiliereDataset_AggregationCode
-The repository provides the code for the data aggregation process and analysis described in **_High-spatial resolution dataset of La Mobilière insurance customers dataset_** by Alice Battiston, Emanuele Massaro, Claudia R. Binder, and Rossano Schifanella. 
+The repository provides the code for the data aggregation process and analysis described in **_High-spatial resolution dataset of La Mobilière insurance customers dataset_** by A. Battiston, E. Massaro, C. R. Binder, and R. Schifanella [INSERT LINK ONCE PUBLISHED]. 
 The code is provided in the form of a Python script.
 
 ### AGGREGATED DATA
 
-The aggregated data are available at: [INSERT LINK]
+The aggregated data are available at: [INSERT LINK ONCE PUBLISHED]
 
 ### CODE
 - *aggregation* provides the code for aggregation of individual level data to municipality and zip-code level.
