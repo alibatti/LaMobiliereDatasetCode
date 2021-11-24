@@ -4,7 +4,12 @@ The code is provided in the form of a Python script.
 
 The aggregated data are available at: INSERT LINK
 
-ABSTRACT:
+### CODE
+- *aggregation* provides the code for aggregation of individual level data to municipality and zip-code level.
+- *analysis* provides the code for the data presentation and validation
+- *final checks* provides the code for the final data checks performed before submission of the dataset.
+
+### ABSTRACT
 We present the La Mobilière insurance customers dataset: a 12-year-long longitudinal collection of data on policies ofcustomers of the Swiss insurance company La Mobilière. 
 To preserve the privacy of La Mobilière customers, we propose thedata aggregated at two geographical levels, based on the place of residence of the customer: postal areas and municipalities.
 For each geographical area, the data provides summary statistics on: i) the demographic characteristics of the customer base,ii) characteristics of vehicles insurance policies and iii) characteristics of housing and building insurance policies. 
