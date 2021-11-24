@@ -1,4 +1,4 @@
-# LaMobiliereDataset_AggregationCode
+# High-spatial resolution dataset of La Mobilière insurance customers dataset - Code for data aggregation
 The repository provides the code for the data aggregation process and analysis described in **_High-spatial resolution dataset of La Mobilière insurance customers dataset_** by A. Battiston, E. Massaro, C. R. Binder, and R. Schifanella [INSERT LINK ONCE PUBLISHED]. 
 The code is provided in the form of a Python script.
 
