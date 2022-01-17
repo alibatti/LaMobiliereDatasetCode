@@ -4,7 +4,7 @@ The code is provided in the form of a Python script.
 
 ### AGGREGATED DATA
 
-The aggregated data are available at: [INSERT LINK IF/ONCE PUBLISHED]
+The aggregated data are available at: https://doi.org/10.6084/m9.figshare.c.5515857
 
 ### CODE
 - *aggregation* provides the code for aggregation of individual level data to municipality and zip-code level.
